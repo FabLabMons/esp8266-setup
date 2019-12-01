@@ -6,11 +6,11 @@
 
 ## Ajouter une URL de gestionnaire de carte
 
-![Gestionnaire de carte](pictures/add_board_manager.png)
-
 URL à ajouter: **<https://arduino.esp8266.com/stable/package_esp8266com_index.json>**
 
 _S'il y a déjà une URL, ajouter la nouvelle en les séparant par des virgules._
+
+![Gestionnaire de carte](pictures/add_board_manager.png)
 
 ## Installer le gestionnaire de carte
 
